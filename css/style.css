@@ -48,3 +48,15 @@ img{
 .brands {
 	margin-left: 20px;
 }
+
+.btn {
+	margin-top: 10px;
+	padding-left: 41%;
+	padding-right: 41%;
+	font-weight: bold;
+}
+
+.btn:hover {
+	background-color: white;
+	color: blue;
+}
